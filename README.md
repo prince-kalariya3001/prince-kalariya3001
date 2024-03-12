@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is my first Git Reposetory.
+Author - Prince Kalariya
 
 <!--
 **prince-kalariya3001/prince-kalariya3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
